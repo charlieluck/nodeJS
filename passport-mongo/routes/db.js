@@ -7,5 +7,5 @@ function f(var i){
 }
 
 var fmxfmxfmx = function(name){
-	this.name = name;
+	this.name = name + 1;
 }
